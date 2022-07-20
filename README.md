@@ -8,7 +8,8 @@ The Sparks Foundation Internship Task - Prediction using Supervised ML
 
 Predict the percentage of an student based on the no. of study hours.
 
-**Technologies Used:  **
+**Technologies Used:**
+
 **Language:**  Python
 
 **IDE:**  Google Colaboratory
